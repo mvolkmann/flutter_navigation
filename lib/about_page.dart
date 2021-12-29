@@ -6,9 +6,6 @@ import 'widget_extensions.dart';
 class AboutPage extends StatelessWidget {
   static const route = '/about';
 
-  //final BuildContext context;
-
-  //const AboutPage({Key? key, required this.context}) : super(key: key);
   const AboutPage({Key? key}) : super(key: key);
 
   @override
